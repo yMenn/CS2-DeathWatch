@@ -51,6 +51,10 @@ Here are some planned features and improvements for the DeathWatch plugin:
 
 Since this is my **first plugin**, I’m eager to hear your thoughts! If you spot any issues, have feature requests, or just want to give feedback, feel free to open an issue or pull request. I’m also open to **suggestions** and **tips** to make this plugin even better!
 
+## 📜 License
+
+This project is licensed under the MIT license. See the LICENSE file for more details.
+
 ---
 
 Thanks for checking out DeathWatch! Your feedback will help make it great.
