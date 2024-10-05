@@ -4,7 +4,7 @@ Welcome to **DeathWatch**, a Counter-Strike plugin designed specifically with th
 
 ## 🚧 Status: Work In Progress
 
-This plugin is **not fully complete**, but I’m actively working on it. I will keep fixing reported issues as they come up. Since this is my first plugin, I’m open to **critiques** and **tips** to make it better!
+This plugin is **not fully complete**, I have some tweeks planned. I will keep fixing reported issues as they come up or once i've finished the other plugins im working on. Since this is my first plugin, I’m open to **critiques** and **tips** to make it better!
 
 ## 🎯 Features
 
